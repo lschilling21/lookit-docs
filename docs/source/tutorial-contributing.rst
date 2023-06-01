@@ -284,6 +284,7 @@ List of tutorial participants
 - Katelyn Hughes (University of Oregon)
 - Jackson Mohr (University of Oregon)
 - Lia Washington (MIT)
+- Lauren Schilling (Harvard)
 
 Checking for and creating issues on Github
 -------------------------------------------
